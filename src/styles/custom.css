@@ -1,0 +1,71 @@
+/* dark mode colors */
+:root {
+	--sl-color-accent-low: #00273d;
+	--sl-color-accent: #0071a7;
+	--sl-color-accent-high: #92d1fe;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #e7eff2;
+	--sl-color-gray-2: #bac4c8;
+	--sl-color-gray-3: #7b8f96;
+	--sl-color-gray-4: #495c62;
+	--sl-color-gray-5: #2a3b41;
+	--sl-color-gray-6: #182a2f;
+	--sl-color-black: #121a1c;
+}
+
+/* light mode colors */
+:root[data-theme="light"] {
+	--sl-color-accent-low: #b0deff;
+	--sl-color-accent: #0073aa;
+	--sl-color-accent-high: #003653;
+	--sl-color-white: #121a1c;
+	--sl-color-gray-1: #182a2f;
+	--sl-color-gray-2: #2a3b41;
+	--sl-color-gray-3: #495c62;
+	--sl-color-gray-4: #7b8f96;
+	--sl-color-gray-5: #bac4c8;
+	--sl-color-gray-6: #e7eff2;
+	--sl-color-gray-7: #f3f7f9;
+	--sl-color-black: #ffffff;
+}
+
+/* https://piccalil.li/blog/some-simple-ways-to-make-content-look-good/ */
+:root {
+	--sl-line-height: 1.7;
+	--sl-content-width: 65ch;
+}
+
+.sl-markdown-content {
+	font-size: clamp(1rem, calc(0.96rem + 0.22vw), 1.13rem);
+
+	> p + p {
+		margin-block-start: var(--flow-space, 1em);
+	}
+}
+
+/* headline */
+@media not all and (min-width: 30em) {
+	h1 {
+		hyphens: auto;
+		text-wrap: balance;
+	}
+}
+
+/* pagination */
+:where(.pagination-links) .link-title {
+	display: block;
+	text-wrap: balance;
+}
+
+/* sidebar navigation transition */
+@media (hover: hover) and (pointer: fine) {
+	::details-content {
+		opacity: 0;
+		transition: opacity 120ms, content-visibility 120ms allow-discrete;
+		transition-timing-function: ease-out;
+	}
+
+	[open]::details-content {
+		opacity: 1;
+	}
+}

@@ -4,7 +4,7 @@ title: Het grote Rintje voorleesboek
 head:
   - tag: title
     content: Das große Rintje-Vorlesebuch
-# template: splash # Remove or comment out this line to display the site sidebar on this page.
+# template: splash
 # hero:
 #   tagline: Congrats on setting up a new Starlight project!
 #   image:

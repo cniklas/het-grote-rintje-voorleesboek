@@ -10,6 +10,7 @@ export default defineConfig({
 				root: { label: "Deutsch", lang: "de" },
 			},
 			title: "Das große Rintje-Vorlesebuch",
+			customCss: ["./src/styles/custom.css"],
 			tableOfContents: false,
 			editLink: {
 				baseUrl: "https://github.com/cniklas/het-grote-rintje-voorleesboek/edit/main/",
@@ -27,6 +28,9 @@ export default defineConfig({
 		}),
 	],
 
+	build: {
+		format: "preserve",
+	},
 	prefetch: false,
 
 	devToolbar: {
