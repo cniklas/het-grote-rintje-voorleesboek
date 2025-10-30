@@ -1,5 +1,5 @@
 ---
-title: Ins Kino
+title: Im Kino
 sidebar:
   order: 15
 ---
@@ -26,11 +26,11 @@ Oma lacht. „Du hast Recht.“, sagt sie. „Es gibt nur einen großen Untersch
 
 Unter Omas Regenschirm gehen sie zusammen zum Kino. Am Eingang vor der Kasse steht bereits eine lange Schlange.
 
-„Wir sehen uns ‚Timtje und Struppi‘ an“, sagt Oma. „Da geht es um einen echt coolen Schäferhund.“
+„Wir sehen uns _Timtje und Struppi_ an“, sagt Oma. „Da geht es um einen echt coolen Schäferhund.“
 
 Als Oma die Eintrittskarten gekauft hat, gibt sie sie Rintje. „Hier, zeig’ unsere Eintrittskarten dem Mann am Einlass.“
 
-Der Einlass-Hund hat einen prächtigen roten Anzug an. Rintje zeigt die Karten vor, und der Mann reißt ein Stückchen davon ab. „Zu ‚Timtje‘ geht es geradeaus und dann die Treppe rauf in den großen Kinosaal.“, brummt er.
+Der Einlass-Hund hat einen prächtigen roten Anzug an. Rintje zeigt die Karten vor, und der Mann reißt ein Stückchen davon ab. „Zu _Timtje_ geht es geradeaus und dann die Treppe rauf in den großen Kinosaal.“, brummt er.
 
 „Erst müssen wir noch etwas Leckeres zu essen kaufen.“, sagt Oma. „Wir brauchen doch etwas zum Knabbern“.
 
