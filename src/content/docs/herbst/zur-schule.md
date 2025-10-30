@@ -39,13 +39,12 @@ Rintje läuft langsam ins Schulhaus. Im Klassenzimmer sieht er die neue Lehrerin
 
 ‚O weh‘, denkt Rintje, ‚ein Windhund! Die sind meistens sehr streng.‘
 
-„Guten Morgen“, sagt die Lehrerin, als alle Kinder sitzen, „ich bin eure neue Lehrerin. Mein Name ist Isodora Schlaukopf. Und wie heißt ihr?“ Frau Schlaukopf setzt eine große Brille auf und nimmt die Namensliste. „Bitte meldet euch, wenn ich euren Namen aufrufe, dann weiß ich gleich, welches Gesicht zu welchem Namen gehört.“
-
+„Guten Morgen“, sagt die Lehrerin, als alle Kinder sitzen, „ich bin eure neue Lehrerin. Mein Name ist Isodora Schlaukopf. Und wie heißt ihr?“ Frau Schlaukopf setzt eine große Brille auf und nimmt die Namensliste. „Bitte meldet euch, wenn ich euren Namen aufrufe, dann weiß ich gleich, welches Gesicht zu welchem Namen gehört.“  
 Als alle Namen vorgelesen sind, geht Frau Schlaukopf zur Tafel und öffnet sie. Dort steht in großen Buchstaben geschrieben das Wort: Ferien.
 
 „So“, sagt Frau Schlaukopf, „nun darf jeder von euch erzählen, was er in den Ferien erlebt hat.“
 
-„Ich will anfangen!“, ruft Max
+„Ich will anfangen!“, ruft Max.
 
 „Prima, fang’ an.“, sagt Frau Schlaukopf.
 
@@ -53,8 +52,7 @@ Max erzählt den anderen, dass er in den Ferien nach China gereist ist. Dass er 
 
 ‚Was für ein Lügner!‘, denkt Rintje, ‚Max hat überhaupt keine Tante in China!‘
 
-Dann erzählen die anderen Hunde aus der Klasse, was sie in den Ferien gemacht haben. Es sind tolle Erlebnisse. Inzwischen bemerkt Rintje, dass er dringend mal auf die Toilette muss.
-
+Dann erzählen die anderen Hunde aus der Klasse, was sie in den Ferien gemacht haben. Es sind tolle Erlebnisse. Inzwischen bemerkt Rintje, dass er dringend mal auf die Toilette muss.  
 Eine Geschichte nach der anderen wird erzählt. Aber Rintje hört gar nicht mehr zu, er kann nur noch ans Pinkeln denken.
 
 „Und Rintje“, hört er Frau Schlaukopf sagen, „was hast du erlebt?“
@@ -65,11 +63,7 @@ Alle Hunde in der Klasse beginnen zu Lachen. „Rintje muss pinkeln!“, rufen s
 
 „Geh’ ruhig zur Toilette.“, sagt Frau Schlaukopf.
 
-Rintje will schnell hinauslaufen, doch es ist schon zu spät. Vor der Tür macht er eine große Pfütze.
-
-Nun lachen die anderen Hunde noch viel lauter. „Rintje hat in die Klasse gepisst!“, rufen sie.
-
-Frau Schlaukopf läuft zu ihm.
+Rintje will schnell hinauslaufen, doch es ist schon zu spät. Vor der Tür macht er eine große Pfütze. Nun lachen die anderen Hunde noch viel lauter. „Rintje hat in die Klasse gepisst!“, rufen sie. Frau Schlaukopf läuft zu ihm.
 
 „Das macht nichts.“, sagt sie. „In Zukunft darfst gleich zur Toilette gehen, du brauchst nicht bis zur Pause zu warten.“
 

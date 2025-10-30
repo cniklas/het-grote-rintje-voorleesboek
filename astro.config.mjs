@@ -22,9 +22,19 @@ export default defineConfig({
 					label: "Herbst",
 					autogenerate: { directory: "herbst" },
 				},
+				{
+					label: "Winter",
+					autogenerate: { directory: "winter" },
+				},
+				{
+					label: "Frühling",
+					autogenerate: { directory: "fruehling" },
+				},
+				{
+					label: "Sommer",
+					autogenerate: { directory: "sommer" },
+				},
 			],
-
-			social: [{ icon: "github", label: "GitHub", href: "https://github.com/cniklas/het-grote-rintje-voorleesboek" }],
 		}),
 	],
 

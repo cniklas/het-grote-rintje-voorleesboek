@@ -69,3 +69,14 @@
 		opacity: 1;
 	}
 }
+
+/* divider */
+:where(.sl-markdown-content) hr {
+	border: none;
+	height: 42px;
+	aspect-ratio: 800 / 168;
+	mask: url(/divider.svg);
+	background-color: var(--sl-color-white);
+	margin-block: calc(var(--flow-space, 1em) * 2);
+	margin-inline: auto;
+}

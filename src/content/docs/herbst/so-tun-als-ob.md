@@ -18,9 +18,7 @@ Mama beginnt zu raten. Sie zählt verschiedene Dinge auf, aber das, was Rintje m
 
 „Ich sehe was, was du nicht siehst, und das ist blau.“, sagt Mama.
 
-Jetzt beginnt Rintje zu raten. Auch er zählt eine Menge Dinge auf, aber immer ist es das Falsche. Dann kommt ihm ein Gedanke: „Ist es der Griff vom Geschirrschrank?“
-
-Aber Mama gibt ihm keine Antwort, auch nicht, als er seine Frage wiederholt. Das einzige, was er hört, ist ein leises schnarchendes Geräusch.
+Jetzt beginnt Rintje zu raten. Auch er zählt eine Menge Dinge auf, aber immer ist es das Falsche. Dann kommt ihm ein Gedanke: „Ist es der Griff vom Geschirrschrank?“ Aber Mama gibt ihm keine Antwort, auch nicht, als er seine Frage wiederholt. Das einzige, was er hört, ist ein leises Schnarchen.
 
 ‚Aha‘, denkt er, ‚Mama ist wieder mal eingeschlafen. Es ist doch immer das Gleiche.‘  
 Er nimmt einen von Mamas Pantoffeln und steckt ihn sich auf eine Pfote. Dann bewegt er ihn hin und her, setzt eine hohe Stimme auf und tut so, als wäre der Pantoffel Mama.
