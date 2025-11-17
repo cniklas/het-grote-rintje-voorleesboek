@@ -4,41 +4,41 @@ sidebar:
   order: 12
 ---
 
-„Wir bekommen einen Stich“, sagt Rintje.
+„Wir bekommen eine Spritze“, sagt Rintje.
 
-„Wozu das denn?“, fragt Henriette.
+„Was meinst du mit Spritze?“, fragt Henriette.
 
-„Einen Stich mit einer Spritze.“, sagt Rintje. „Das ist gegen eine bestimmte Krankheit, an der man sterben kann.“
+„Eine Spritze mit einer Nadel.“, sagt Rintje. „Das ist gegen eine bestimmte Krankheit, an der man sterben kann.“
 
-„Musst du zum Doktor?“, fragt Henriette, „oder können wir uns selbst impfen?“
+„Müssen wir zum Arzt gehen“, fragt Henriette, „oder können wir das selbst machen?“
 
-„Der Doktor macht das.“, sagt Rintje.
+„Der Arzt macht das.“, sagt Rintje.
 
-„Ich kann dir doch auch einen Stich geben“, sagt Henriette. „Dafür nehme ich einfach eine Nadel aus dem Nähkästchen.“
+„Ich kann dir auch eine Spritze geben“, sagt Henriette. „Dafür nehme ich einfach eine Nadel aus dem Nähkästchen.“
 
-„In der Nadel aus dem Nähkästchen ist aber kein Mittel gegen die Krankheit.“, sagt Rintje. „Das hat nur der Doktor.“
+„In der Nadel aus dem Nähkästchen ist aber kein Mittel gegen die Krankheit.“, sagt Rintje. „Das hat nur der Arzt.“
 
-„Ich will keine Spritze bekommen“, sagt Henriette. „Dann habe ich ja ein Loch in meiner Haut.“
+„Ich will keine Spritze“, sagt Henriette. „Dann bekomme ich ja ein Loch in meine Haut.“
 
 „Das sieht doch niemand“, sagt Rintje. „Das ist doch unter deinem Fell.“
 
 „Trotzdem finde ich es blöd.“, sagt Henriette. „Ist doch schade um meine schöne Haut!“
 
-„Ich glaube, du suchst nur eine Ausrede“, sagt Rintje, „weil du Angst bekommen hast.“
+„Ich glaube, du erfindest eine Ausrede“, sagt Rintje, „weil du Angst bekommen hast.“
 
-„Angst!?“, ruft Henriette, „Ich habe niemals vor irgendetwas Angst!“
+„Angst!?“, ruft Henriette, „Ich habe vor nichts Angst!“
 
-„Na, das trifft sich gut, denn heute Nachmittag müssen wir schon zum Doktor.“, sagt Rintje.
+„Na, das trifft sich gut, denn heute Nachmittag sollen wir schon zum Arzt.“, sagt Rintje.
 
-„Kommt der Doktor zu uns an die Schule?“, fragt Henriette.
+„Kommt der Arzt zu uns an die Schule?“, fragt Henriette.
 
-„Ja, und alle anderen Hunde bekommen auch eine Spritze.“, sagt Rintje.
+„Ja, und die anderen Hunde bekommen auch eine Spritze.“, sagt Rintje.
 
 „Darf ich dann zusammen mit dir geimpft werden?“, fragt Henriette.
 
 „Klar!“, sagt Rintje. „Ich werde deine Pfote halten.“
 
-„Das ist wirklich nicht nötig.“, sagt Henriette, „Zusammen macht es einfach mehr Spaß.“
+„Das brauchst du nicht.“, sagt Henriette, „Zusammen macht es einfach mehr Spaß.“
 
 ---
 
@@ -48,37 +48,37 @@ Boris steigt in den Bus ein. Kurz darauf kommt er wieder heraus.
 
 „Und?“, fragt ihn einer von seinen Freunden, „Tut es weh?“
 
-„Überhaupt nicht!“, sagt Boris lässig. Ganz stolz zeigt er sein Pflaster herum.  „Da ist das Loch drunter.“, sagt er.
+„Überhaupt nicht!“, sagt Boris lässig. Ganz stolz zeigt er sein Pflaster herum. „Da ist das Loch drunter.“, sagt er.
 
 Vor Henriette und Rintje steht Nero. Nero ist der größte und coolste Hund der ganzen Schule. Er beugt sich zu Henriette herunter.
 
-„Na, du Zwerg“, sagt er, „Fängst du schon an zu zittern?“
+„Na, du Kleine“, sagt er, „Fängst du schon an zu zittern?“
 
-„Wie kommt du denn darauf?“, sagt Henriette. „Ich habe keine Angst.“
+„Wie kommt du darauf?“, sagt Henriette. „Ich habe keine Angst.“
 
-„Das werden wir ja sehen.“, sagt Nero. „Für so Winzlinge wie dich ist eine Spritze doch etwas Schreckliches.“
+„Das werden wir ja sehen.“, sagt Nero. „Für so’n Zwerg wie dich ist eine Spritze doch etwas Schreckliches.“
 
-„Überhaupt nicht“, sagt Henriette, „Ich spüre fast nichts dabei.“
+„Überhaupt nicht!“, sagt Henriette, „Man spürt fast nichts davon.“
 
-„Ich habe schon hundert Spritzen bekommen.“, sagt Nero. „Ich finde es einfach herrlich, so einen Stich in die Haut zu bekommen.“
+„Ich habe schon hundert Spritzen bekommen.“, sagt Nero. „Ich finde es einfach herrlich, so einen Stich in meiner Haut.“
 
-„Was für ein Angeber“, sagt Rinjte, „Kein einziger Hund hat schon hundert Spritzen bekommen.“
+„Der gibt ja an!“, sagt Rinjte, „Kein Hund hat schon hundert Spritzen bekommen.“
 
-„Der Nächste, bitte!“, hören sie die Krankenschwester rufen. Sie sind gleich an der Reihe. Nur noch zwei Hunde stehen vor Nero.
+„Der Nächste, bitte!“, hören sie die Krankenschwester rufen. Gleich sind sie an der Reihe. Nur noch zwei Hunde stehen vor Nero.
 
-„Du darfst dich ruhig vor mich in die Reihe stellen.“, sagt Nero zu Henriette.
+„Du darfst vorgehen.“, sagt Nero zu Henriette.
 
-„Das ist nicht nötig.“, sagt Henriette. „Geh’ du vor; ich habe es nicht eilig.“
+„Das ist nicht nötig.“, sagt Henriette. „Geh’ du ruhig vor mir; ich habe es nicht eilig.“
 
-„Aber ich muss schnell nochmal pinkeln gehen.“, sagt Nero.
+„Aber ich muss eben schnell nochmal pinkeln gehen.“, sagt Nero.
 
 „Der Nächste, bitte!“, sagt die freundliche Krankenschwester.
 
-„Du bist dran!“, sagt Rintje zu Nero. Aber Nero fällt um. Bumms! Da liegt er. Henriette und Rintje sind erschrocken.
+„Du bist dran!“, sagt Rintje zu Nero. Aber Nero fällt um. Bumms! – da liegt er. Henriette und Rintje sind erschrocken.
 
-„Alles in Ordnung.“, sagt die Krankenschwester. „Nero ist nur in Ohnmacht gefallen. Das passiert öfter bei ängstlichen Hunden.“
+„Alles in Ordnung.“, sagt die Krankenschwester. „Nero ist nur in Ohnmacht gefallen. Das kann bei ängstlichen Hunden schon mal vorkommen.“
 
-„Aber er findet geimpft zu werden toll“, sagt Rintje. „Er hat schon hundertmal eine Spritze bekommen.“
+„Aber er findet es toll geimpft zu werden.“, sagt Rintje. „Er hat schon hundert Spritzen bekommen.“
 
 Die Krankenschwester muss lachen. „Jaja, Angeber-Sprüche.“ Sie rüttelt Nero wieder wach und schiebt ihn sanft in den Bus hinein. Kurz darauf kommt er wieder nach draußen. Er traut sich nicht, Henriette und Rintje anzusehen. Sein Schwanz ist ganz eingezogen.
 

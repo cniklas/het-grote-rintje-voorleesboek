@@ -46,6 +46,6 @@ Mama geht mit dem anderen Ende vom Faden zur Tür. Sie öffnet die Tür und bind
 
 Der Faden liegt am Boden, und an einem Ende hängt der Wackelzahn. Rinje fährt mit seiner Zunge über die Stelle, wo vorher der Wackelzahn war. Er spürt nichts, nur eine weiche Haut. Aber es schmeckt etwas komisch. Wie Rost.
 
-Mama hebt den Faden auf, an dem der Zahn befestigt ist. „Hier.“, sagt sie. „Wenn du den Zahn unter deinen Hundekorb legst, kommt die Zahnfee und legt ein kleines Geschenk hinein. Rintje nimmt den Zahn und legt ihn unter seinen Hundekorb.
+Mama hebt den Faden auf, an dem der Zahn befestigt ist. „Hier.“, sagt sie. „Wenn du den Zahn unter deinen Hundekorb legst, kommt die Zahnfee und legt ein kleines Geschenk hinein.“ Rintje nimmt den Zahn und legt ihn unter seinen Hundekorb.
 
 „Und nun schnell schlafen gehen“, sagt Mama. Sie legt Rintje in sein Körbchen und deckt ihn gut zu.
