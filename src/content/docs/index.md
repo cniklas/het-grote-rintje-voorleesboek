@@ -22,7 +22,7 @@ pagefind: false
 
 van Sieb Posthuma
 
-![](/cover.jpg)
+![](/rintje/cover.jpg)
 
 Rintje is een lief en eigenwijs hondje. Op school en thuis maakt hij het hele jaar door van alles mee.  
 Samen met zijn vriendjes Tobias en Henriëtte verzint hij de leukste spelletjes, gaat hij op schoolreis en kampeert hij een nachtje in de tuin. Rintje logeert vaak bij oma, en samen met haar maakt hij allerlei uitstapjes. Voor Rintje is iedere dag een avontuur!
