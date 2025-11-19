@@ -19,7 +19,7 @@ Tobias setzt sich neben Rintje.
 
 „Natürlich nicht“, sagt Rintje, „alle Dackel haben kurze Beine.“
 
-„Trotzdem machen sich andere ständig darüber lustig und verspotten mich deswegen“, sagt Tobias. „Hey, Bauchrutscher, hast du deine Beine zuhause vergessen?“
+„Trotzdem machen alle ständig Witze darüber und rufen mir hinterher“, sagt Tobias. „‚Hey, Bauchrutscher, hast du deine Beine zuhause vergessen?‘“
 
 „Das sind dumme Witze.“, sagt Rintje. „Hast du Lust nach der Schule zu mir zum Spielen zu kommen?“
 

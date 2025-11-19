@@ -6,7 +6,7 @@ sidebar:
 
 „Ich bin müde.“, sagt Mama. „Ganz schrecklich müde. Ich lege mich ein bisschen auf die Couch.“
 
-„Aber wir wollten doch zusammen ein spielen“, sagt Rintje, „und wenn du dich auf die Couch legst, schläfst du immer ein.“
+„Wir wollten doch ein Spiel spielen“, sagt Rintje, „und wenn du dich auf die Couch legst, schläfst du immer ein.“
 
 „Bestimmt nicht“, sagt Mama, „Ich werde nicht einschlafen. Ich lege mich nur ein bisschen hin.“
 
