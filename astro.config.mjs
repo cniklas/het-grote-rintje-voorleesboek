@@ -39,7 +39,7 @@ export default defineConfig({
 	],
 
 	base: "/rintje/",
-	site: "https://cniklas.uber.space/rintje/",
+	site: "https://cniklas.uber.space",
 	prefetch: false,
 
 	devToolbar: {
