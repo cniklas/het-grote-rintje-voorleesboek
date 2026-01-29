@@ -41,6 +41,9 @@ export default defineConfig({
 
 	base: "/rintje/",
 	site: "https://cniklas.uber.space",
+	build: {
+		format: "file",
+	},
 	prefetch: false,
 
 	devToolbar: {
