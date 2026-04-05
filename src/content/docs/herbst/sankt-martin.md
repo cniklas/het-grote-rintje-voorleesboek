@@ -57,7 +57,7 @@ Als sie mit dem Singen fertig sind, holt die Frau aus einem großen Korb eine ga
 
 An der nächsten Tür wohnt ein sehr vornehmer Herr. „Ich mag diesen Rummel nicht“, sagt er, als sie mit ihrem Lied fertig sind. Er gibt allen dreien ein Stück Brot. „Ein Butterbrot mit Zufriedenheit sorgt für Gehorsam und Fleiß!“
 
-„Pah!“, sagt Henriëtte, während sie weitergehen. „Was für ein Blödmann! Da gehen wir nächstes Jahr nicht mehr hin.“
+„Pah!“, sagt Henriette, während sie weitergehen. „Was für ein Blödmann! Da gehen wir nächstes Jahr nicht mehr hin.“
 
 An jeder Tür singen sie ihr Lied. Ihre Taschen füllen sich immer mehr mit Süßigkeiten.
 
