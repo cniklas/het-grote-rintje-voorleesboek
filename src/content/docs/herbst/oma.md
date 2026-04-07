@@ -54,7 +54,7 @@ Rintje sieht die gelben Blätter in der Sonne glänzen. Manchmal fällt ein Blat
 
 Auf dem Boden rund um den Stamm liegen überall Eicheln und Blätter. „Machen wir Eichelmännchen?“, fragt Rintje.
 
-„Später“, sagt Oma. „Zuerst mache ich etwas für dich!“ Sie ritzt mit ihrem Messer ein Herz in den Baum. Dann schreibt sie etwas um das Herz herum: Für Rintje von Oma.
+„Später“, sagt Oma. „Zuerst mache ich etwas für dich!“ Sie ritzt mit ihrem Messer ein Herz in den Baum. Dann schreibt sie etwas um das Herz herum: _Für Rintje von Oma_.
 
 „Für den Fall, dass ich nicht mehr da bin“, sagt Oma. „Dann kannst du hierherkommen. Und wenn du das Herz siehst, erinnerst du dich an all meine Geschichten und auch an diesen schönen Tag!“
 

@@ -26,6 +26,8 @@ Rintje macht seinen Mund auf. Ganz vorne sitzt der Wackelzahn. „Aha, ich verst
 
 „Der wächst von allein“, sagt Mama. „Aber jetzt ist es Zeit schlafen zu gehen.“
 
+---
+
 Als Rintje in seinem Hundekorb liegt, denkt er über den Wackelzahn nach. ‚Wenn der Zahn jetzt rausfällt, während ich schlafe, dann schlucke ich ihn vielleicht runter!‘, denkt er. Mit einem Mal ist Rintje hellwach. Er läuft zu Mama. „Ich kann nicht einschlafen“, ruft er.
 
 „Warum nicht?“, fragt Mama.

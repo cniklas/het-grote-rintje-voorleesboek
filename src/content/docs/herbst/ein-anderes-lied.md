@@ -22,7 +22,7 @@ Endlich ist Heiligabend. Henriette und Tobias feiern gemeinsam mit Rintje.
 
 „Wir können das Lied singen, das uns Frau Schlaukopf gerade beigebracht hat!“, sagt Tobias
 
-„Meinst du das über Jakob Straßenhund?“, fragt Henriette.
+„Meinst du das über Jackie Straßenhund?“, fragt Henriette.
 
 „Ja“, sagt Rintje. „Das singen wir am Schornstein.“
 
@@ -37,20 +37,20 @@ Tobias, Henriette und Rintje stellen sich ordentlich nebeneinander auf. „Ich z
 
 > So streifte er durch Stadt und Land  
 > auf der Suche nach Liebe und einem Körbchen.  
-> O armer Jakob Straßenhund!  
-> O armer Jakob Straßenhund!
+> O armer Jackie Straßenhund!  
+> O armer Jackie Straßenhund!
 
 > Doch eines Tages sah er sie vorübergehen,  
 > sie kaufte gerade einen Knochen.  
 > Es war ein Mädchen, ganz charmant,  
 > ein Rassehund von höchstem Stand.  
-> Unser Jakob bat sie um einen Kuss,  
+> Unser Jackie bat sie um einen Kuss,  
 > doch sie sprang flink in einen Bus.
 
 > So streifte er durch Stadt und Land  
 > auf der Suche nach Liebe und einem Körbchen.  
-> O armer Jakob Straßenhund!  
-> O armer Jakob Straßenhund!
+> O armer Jackie Straßenhund!  
+> O armer Jackie Straßenhund!
 
 > Sein Herz brach vor Liebeskummer,  
 > einsam streunte er durch die Gassen,  
@@ -61,8 +61,8 @@ Tobias, Henriette und Rintje stellen sich ordentlich nebeneinander auf. „Ich z
 
 > Nun streift er nicht mehr durch Stadt und Land,  
 > der Himmel wurde sein warmer Korb,  
-> O armer Jakob Straßenhund!  
-> O armer Jakob Straßenhund!
+> O armer Jackie Straßenhund!  
+> O armer Jackie Straßenhund!
 
 Als sie mit dem Singen fertig sind, wischt sich Henriette eine Träne aus dem Auge. „Immer wenn ich das singe, finde ich es so ein trauriges Lied!“, sagt sie.
 
