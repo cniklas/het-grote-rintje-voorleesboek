@@ -1,6 +1,6 @@
 {
   "name": "rintje",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Christian Niklas",
   "type": "module",
   "scripts": {
@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.38.2",
-    "astro": "^6.1.8",
+    "astro": "^6.1.10",
     "sharp": "^0.34.5"
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }
