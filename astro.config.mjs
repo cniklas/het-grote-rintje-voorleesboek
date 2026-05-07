@@ -12,6 +12,7 @@ export default defineConfig({
 			title: "Das große Rintje-Vorlesebuch",
 			head: [{ tag: "meta", attrs: { name: "robots", content: "noindex, nofollow" } }],
 			customCss: ["./src/styles/custom.css"],
+			social: [],
 			tableOfContents: false,
 			editLink: {
 				baseUrl: "https://github.com/cniklas/het-grote-rintje-voorleesboek/edit/main/",
@@ -21,19 +22,19 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: "Herbst",
-					autogenerate: { directory: "herbst" },
+					items: [{ autogenerate: { directory: "herbst" } }],
 				},
 				{
 					label: "Winter",
-					autogenerate: { directory: "winter" },
+					items: [{ autogenerate: { directory: "winter" } }],
 				},
 				{
 					label: "Frühling",
-					autogenerate: { directory: "fruehling" },
+					items: [{ autogenerate: { directory: "fruehling" } }],
 				},
 				{
 					label: "Sommer",
-					autogenerate: { directory: "sommer" },
+					items: [{ autogenerate: { directory: "sommer" } }],
 				},
 			],
 		}),
