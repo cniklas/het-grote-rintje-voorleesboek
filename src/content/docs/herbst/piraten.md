@@ -4,19 +4,19 @@ sidebar:
   order: 18
 ---
 
-Rintje und Tobias haben draußen gespielt. Schön im Schlamm, denn es regnet. Sie sind völlig von oben bis unten dreckig, und als sie ins Haus gehen wollen, hält Rintjes Mutter sie auf.
+Rintje und Tobias haben draußen gespielt. Schön im Schlamm, denn es regnet. Sie sind von oben bis unten verdreckt, und als sie ins Haus gehen wollen, hält Rintjes Mutter sie auf.
 
-„So schmutzige Hunde-Kinder will ich nicht in meinem Haus haben“, sagt sie. „Ihr geht direkt in die Badewanne!“
+„So schmutzige Hunde-Kinder will ich nicht in meinem Haus haben“, sagt sie. „Ab mit euch in die Badewanne!“
 
 Sie hebt Rintje hoch und bringt ihn ins Badezimmer. Dann holt sie Tobias.
 
-„So“, sagt Mama, während sie die Badewanne volllaufen lässt, „ich gebe schön viel Badeschaum hinein. Und dann schrubben wir euch mal richtig durch!“
+„So“, sagt Mama, während sie die Badewanne volllaufen lässt, „ich gebe schön viel Badeschaum hinein. Und dann schrubben wir euch so richtig sauber!“
 
 Rintje und Tobias haben überhaupt keine Lust, in die Badewanne zu gehen, aber als sie im schönen warmen Wasser sitzen, finden sie es doch ganz lustig.
 
 „Schau mal“, sagt Tobias, „aus dem Badeschaum kann man ganz viele Sachen machen!“ Er nimmt eine Handvoll Schaum und stellt ihn auf den Kopf. „So ist es ein Zylinder!“
 
-„Und so ein ganz hoher Turm“, sagt Rintje, die noch eine Handvoll Schaum hinzufügt.
+„Und so ein ganz hoher Turm“, sagt Rintje, der noch eine Handvoll Schaum hinzufügt.
 
 „Weißt du was?“, sagt Tobias. „Wir tun so, als wäre die Badewanne ein Schiff!“
 
@@ -43,16 +43,16 @@ Rintje schnappt sich ein paar Handtücher. „Hier“, sagt er. „Daraus machen
 „Ich werde mal die Piraten fragen“, sagt Rintje. Es ist kurz still.  
 „Die Piraten haben nichts dagegen“, sagt Rintje dann. „Aber sie muss einen Schatz mitbringen, sonst darf sie nicht rein.“
 
-„Dafür sorge ich!“, sagt Mama. Sie gibt Henriette ein paar leckere Hundekuchen. „Ich glaube, damit werden die Piraten zufrieden sein.“
+„Dafür sorge ich!“, sagt Mama. Sie gibt Henriette ein paar leckere Knabberkuchen. „Ich glaube, damit werden die Piraten zufrieden sein.“
 
-Als Henriette ins Badezimmer kommt, rufen Rintje und Tobias: „Ahoi! Her mit den Schätzen, sonst werdet Ihr gefangen genommen!“
+Als Henriette ins Badezimmer kommt, rufen Rintje und Tobias: „Ahoi! Her mit den Schätzen oder wir nehmen dich gefangen!“
 
-„Das ist alles, was ich habe“, sagt Henriette und gibt jedem der Piraten einen Hundekuchen.
+„Hier ist alles, was ich habe“, sagt Henriette und gibt jedem der Piraten einen Knabberkuchen.
 
-„Jetzt dürft ihr auf das Schiff“, sagt Rintje.
+„Jetzt darfst du auf das Schiff“, sagt Rintje.
 
-Mama kommt auch herein. „Ich gieße noch etwas warmes Wasser ins Schiff“, sagt sie. „Macht ihr mal Platz? Dann kann Henriette auch mit rein.“
+Mama kommt auch herein. „Ich gieße noch etwas warmes Wasser ins Schiff“, sagt sie. „Rückt mal ein Stück zur Seite, dann kann Henriette auch mit rein.“
 
 Als Henriette in der Badewanne sitzt, bekommt sie auch ein Piratenkopftuch.
 
-„Jetzt bin ich eine Piratin“, sagt sie stolz. „Und ich heiße Kapitänin Locke.“
+„Jetzt bin ich eine Piratin“, sagt sie stolz „und heiße Kapitänin Locke.“
