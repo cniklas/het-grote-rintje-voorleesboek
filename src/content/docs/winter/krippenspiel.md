@@ -46,7 +46,7 @@ Dann läutet die Schulglocke. „Kommt schnell rein“, sagt Frau Schlaukopf. �
 
 „Und wir haben schöne Geschenke für das Jesuskind mitgebracht“, sagt Tobias.
 
-„Ah!“, sagt Mama. „Ihr seid die drei Weisen aus dem Osten, die drei Könige!“
+„Ah!“, sagt Mama. „Ihr seid die drei Weisen aus dem Morgenland, die drei Könige!“
 
 „Ja“, sagt Rintje. „Wir sind Caspar, Melchior und Balthasar!“
 
@@ -72,4 +72,4 @@ Alle drei machen sich eifrig an die Arbeit.
 
 „Mit der Schlechtwetterkrone kann man durch die Wolken hindurchsehen“, sagt Rintje. „Und so werden die drei Weisen das Kind auch bei schlechtem Wetter finden!“
 
-„Ich finde das sehr gut ausgedacht“, sagt Mama. „Ihr seid echte Weise!“
+„Eine fabelhafte Idee“, sagt Mama. „Ihr seid echte Weise!“

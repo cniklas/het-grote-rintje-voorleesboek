@@ -10,6 +10,7 @@ export default defineConfig({
 				root: { label: "Deutsch", lang: "de" },
 			},
 			title: "Das große Rintje-Vorlesebuch",
+			titleDelimiter: "-",
 			head: [{ tag: "meta", attrs: { name: "robots", content: "noindex, nofollow" } }],
 			customCss: ["./src/styles/custom.css"],
 			social: [],
